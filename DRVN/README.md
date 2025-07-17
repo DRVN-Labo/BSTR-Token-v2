@@ -1,4 +1,4 @@
-# 🧠 Based Buster (BSTR) Token
+# :sunglasses: Buster (BSTR) Token
 
 ## Overview
 
